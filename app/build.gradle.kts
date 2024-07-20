@@ -47,7 +47,17 @@ dependencies {
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.firebase.storage)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    implementation(libs.firebase.ui.firestore)
+//    implementation(libs.firebase.ui.storage)
+//    com.firebaseui:firebase-ui-storage:8.0.2
+    implementation(platform(libs.firebase.bom))
+    implementation(libs.firebase.analytics)
+    implementation(libs.firebase.ui.firestore)
+    implementation(libs.firebase.ui.storage)
+    implementation(libs.firebase.firestore.ktx)
 }
