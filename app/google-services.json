@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747386356080",
+    "project_id": "good--shorts",
+    "storage_bucket": "good--shorts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747386356080:android:7528ef8aef39f2506dcfb5",
+        "android_client_info": {
+          "package_name": "com.example.goodyoutubeshorts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpF2QrD5A4aNcbiTEaeu7OiVWJyjJVvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
